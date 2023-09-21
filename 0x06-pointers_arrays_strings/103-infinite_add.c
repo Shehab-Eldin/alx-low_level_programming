@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * rot13 - encodes a string in rot13
- * @s: string to be encoded
+ * infinite_add - encodes a string in rot13
+ * @n1: string to be encoded
+ * @:
  * Return: the resulting strring
  */
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
